@@ -1,93 +1,116 @@
+<!-- Banner -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Prajwal%20Hegde&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
+
 <h1 align="center">Hi 👋, I'm Prajwal Hegde</h1>
-<h3 align="center">Data Science Student | Python | Data Analysis | Visualization</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Prajwal+Hegde;Welcome+to+my+GitHub+Profile;Python+Developer;Data+Science+Student;Data+Analysis+%7C+Machine+Learning;Exploring+AI+Technologies" />
+</p>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
-🎓 Computer Science (Data Science) student at **Atria Institute of Technology**
-
-📊 Interested in **Data Analysis, Machine Learning, and Data Visualization**
-
-🐍 Familiar with **Python and data handling**
-
-🚀 Looking to gain **practical experience and develop strong technical skills**
-
-📍 Bangalore, Karnataka, India
+* 📊 Interested in **Data Analysis, Machine Learning and Visualization**
+* 🐍 Work mainly with **Python and Data Handling**
+* 💡 Love building **data-driven projects**
+* 📍 Bangalore, India
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-**Programming Languages**
-- Python
-- C Programming
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,c,html,css,git,vscode" />
+</p>
 
-**Web Development**
-- HTML
-- CSS
-
-**Data Tools**
-- Pandas
-- Tableau
-- Power BI
-
-**Tools**
-- Git
-- VS Code
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
+</p>
 
 ---
 
-## 📊 Projects
+## 📂 Projects
 
-### 📈 LSTM-Based Stock Forecasting & Portfolio Optimization
-- Forecasted stock prices using historical market data
-- Performed data preprocessing and time-series analysis
-- Applied portfolio optimization concepts to balance risk and return
+### 📈 LSTM Based Stock Forecasting & Portfolio Optimization
+
+* Forecasted stock prices using **historical market data**
+* Performed **time-series analysis**
+* Applied **portfolio optimization concepts**
 
 ### 🤖 AI Chatbot for Project Idea Recommendation
-- Built a chatbot that suggests project ideas based on user input
-- Designed conversational flow for better interaction
-- Used basic NLP techniques for intent understanding
 
-### 🔐 CRC Simulation Using Data Frames (Computer Networks)
-- Simulated CRC-based error detection in data transmission
-- Implemented sender-receiver communication using data frames
-- Demonstrated detection of transmission errors
+* Built chatbot that **suggests project ideas**
+* Created **simple conversational flow**
+* Used **basic NLP techniques**
 
-### 🏠 FlatMate (Hackathon Project – Cypher 2.0)
-- Built a web application to match roommates
-- Matches based on lifestyle and preference parameters
+### 🔐 CRC Simulation Using Data Frames
+
+* Simulated **CRC error detection**
+* Implemented **sender-receiver communication**
+* Demonstrated **transmission error detection**
 
 ---
 
-## 🎓 Education
+## 📊 GitHub Stats
 
-**Atria Institute of Technology**  
-B.E. Computer Science (Data Science)  
-2023 – Present
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=tokyonight"/>
+</p>
 
-**ASC Independent PU College**  
-Percentage: 90.83%  
-2021 – 2023
+<p align="center">
+<img src="https://streak-stats.demolab.com/?user=Prajwalhegde30&theme=tokyonight"/>
+</p>
 
-**Pine Woods English School**  
-Percentage: 85.26%  
-2021
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=tokyonight"/>
+</p>
 
 ---
 
-## 📜 Certifications
+## 📈 GitHub Activity Graph
 
-- Python for Data Science – NPTEL
-- SQL Bootcamp
-- Python Fundamentals for Data Science (4-week certification)
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalhegde30&theme=tokyo-night"/>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
-📧 Email: prajwalhegde3010@gmail.com  
+<p align="center">
+
+<a href="mailto:prajwalhegde3010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Prajwalhegde30">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Prajwalhegde30&label=Profile%20Views&color=blue&style=flat"/>
+</p>
+
+<p align="center">
+⭐ Exploring Data Science, AI and new technologies 🚀
+</p>
+
+<!-- Footer -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
+</p>
+ 
 
 💼 LinkedIn: (Add your LinkedIn link)  
 
