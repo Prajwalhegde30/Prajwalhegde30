@@ -1,79 +1,96 @@
-<!-- Banner -->
+<!-- Animated Header -->
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Prajwal%20Hegde&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
-</p>
-
-
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Prajwal+Hegde;Welcome+to+my+GitHub+Profile;Python+Developer;Data+Science+Student;Data+Analysis+%7C+Machine+Learning;Exploring+AI+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+👋+I'm+Prajwal+Hegde;Data+Science+Student;Python+Developer;Machine+Learning+Enthusiast;Building+Cool+Projects+🚀">
 </p>
 
 ---
 
-## 🚀 About Me
+# 👨‍💻 About Me
 
-* 📊 Interested in **Data Analysis, Machine Learning and Visualization**
-* 🐍 Work mainly with **Python and Data Handling**
-* 💡 Love building **data-driven projects**
-* 📍 Bangalore, India
+🚀 Data Science student passionate about **AI, Machine Learning and Data Analysis**
 
----
+📊 Interested in **data-driven problem solving and visualization**
 
-## 🛠️ Tech Stack
+🐍 Comfortable working with **Python, Pandas, and data processing**
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,c,html,css,git,vscode" />
-</p>
+🧠 Always learning new technologies and improving my coding skills
 
-<p align="center">
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white"/>
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=PowerBI&logoColor=black"/>
-</p>
+📍 Bangalore, India
 
 ---
 
-## 📂 Projects
+# ⚡ Tech Stack
 
-### 📈 LSTM Based Stock Forecasting & Portfolio Optimization
+### 🧠 Languages
 
-* Forecasted stock prices using **historical market data**
-* Performed **time-series analysis**
-* Applied **portfolio optimization concepts**
+<p>
+<img src="https://skillicons.dev/icons?i=python,c"/>
+</p>
+
+### 🌐 Web Development
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css"/>
+</p>
+
+### 📊 Data & Visualization
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,vscode"/>
+</p>
+
+Tools:
+
+* Pandas
+* Tableau
+* Power BI
+
+---
+
+# 🚀 Projects
+
+### 📈 LSTM-Based Stock Forecasting & Portfolio Optimization
+
+* Forecasted stock prices using historical market data
+* Applied time-series analysis and preprocessing
+* Used portfolio optimization concepts to balance risk and return
 
 ### 🤖 AI Chatbot for Project Idea Recommendation
 
-* Built chatbot that **suggests project ideas**
-* Created **simple conversational flow**
-* Used **basic NLP techniques**
+* Built a chatbot that suggests project ideas based on user input
+* Designed conversational interaction flow
+* Implemented basic NLP techniques for intent understanding
 
 ### 🔐 CRC Simulation Using Data Frames
 
-* Simulated **CRC error detection**
-* Implemented **sender-receiver communication**
-* Demonstrated **transmission error detection**
+* Simulated CRC error detection in network data transmission
+* Implemented sender-receiver communication model
+* Demonstrated error detection using data frames
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=tokyonight"/>
-</p>
 
-<p align="center">
-<img src="https://streak-stats.demolab.com/?user=Prajwalhegde30&theme=tokyonight"/>
-</p>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=tokyonight"/>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📈 GitHub Activity Graph
+# 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalhegde30&theme=tokyonight"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalhegde30&theme=tokyo-night"/>
@@ -81,41 +98,26 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🐍 Contribution Snake
 
 <p align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
+</p>
 
+---
+
+# 🌐 Connect With Me
+
+<p>
 <a href="mailto:prajwalhegde3010@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Prajwalhegde30">
-<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=Prajwalhegde30&label=Profile%20Views&color=blue&style=flat"/>
-</p>
-
-<p align="center">
-⭐ Exploring Data Science, AI and new technologies 🚀
-</p>
-
-<!-- Footer -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C5364,50:203A43,100:0F2027&height=120&section=footer"/>
-</p>
- 
-
-💼 LinkedIn: (Add your LinkedIn link)  
-
-💻 GitHub: https://github.com/Prajwalhegde30
-
----
-
-⭐ *Always learning and exploring Data Science and AI.*
+⭐ **Always exploring Data Science, AI, and new technologies**
