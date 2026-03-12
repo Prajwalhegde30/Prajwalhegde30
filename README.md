@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=200&section=header&text=Prajwal%20Hegde&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Prajwal Hegde</h1>
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Hi+I'm+Prajwal+Hegde;Welcome+to+my+GitHub+Profile;Python+Developer;Data+Science+Student;Data+Analysis+%7C+Machine+Learning;Exploring+AI+Technologies" />
