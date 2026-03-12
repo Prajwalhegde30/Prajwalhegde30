@@ -36,15 +36,19 @@
 
 ### 📊 Data & Visualization
 
+### 📊 Data & Visualization
+
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</p>
+
+### 🛠 Tools
+
 <p>
 <img src="https://skillicons.dev/icons?i=git,vscode"/>
 </p>
-
-Tools:
-
-* Pandas
-* Tableau
-* Power BI
 
 ---
 
@@ -82,11 +86,7 @@ Tools:
 
 ---
 
-# 🔥 GitHub Streak
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Prajwalhegde30&theme=tokyonight"/>
-</p>
 
 ---
 
@@ -98,11 +98,6 @@ Tools:
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
