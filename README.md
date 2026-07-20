@@ -90,14 +90,37 @@ Computer Science (Data Science) Student passionate about Artificial Intelligence
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| 🤖 [AI Job Application Portal](https://github.com/Prajwalhegde30/ai-job-application-portal) | AI-powered resume analysis and job matching platform |
-| 🧠 [AI Debate System](https://github.com/Prajwalhegde30/ai-debate-system) | NLP-based debate system with stance classification |
-| 📊 [Binance Futures Trading Bot](https://github.com/Prajwalhegde30/binance-futures-testnet-trading-bot) | Python trading bot for Binance Futures Testnet |
-| 📈 LSTM Stock Forecasting *(Coming Soon)* | Deep learning model for stock prediction and portfolio optimization |
+### 🤖 AI Job Application Portal
+
+- AI-powered resume analysis
+- Smart job matching
+- Intelligent application workflow
+
+---
+
+### 📈 LSTM-Based Stock Forecasting & Portfolio Optimization
+
+- Forecasted stock prices using LSTM
+- Portfolio optimization
+- Financial time-series analysis
+
+---
+
+### 🧠 AI Debate System
+
+- NLP-powered debate platform
+- Argument generation
+- Interactive discussions
+
+---
+
+### 📊 Binance Futures Trading Bot
+
+- Python CLI application
+- Binance Futures API
+- MARKET & LIMIT orders
 
 ---
 
@@ -111,12 +134,17 @@ Computer Science (Data Science) Student passionate about Artificial Intelligence
 - Interactive Tableau Dashboard
 
 ---
+## 💻 Most Used Languages
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=1800" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=github_dark&hide_border=true&cache_seconds=1800" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -140,7 +168,7 @@ Computer Science (Data Science) Student passionate about Artificial Intelligence
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalhegde30&theme=github-compact" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalhegde30&theme=tokyo-night"/>
 </p>
 
 ---
@@ -176,5 +204,5 @@ Computer Science (Data Science) Student passionate about Artificial Intelligence
 ### 💡 "Building AI-powered solutions that solve real-world problems."
 
 ⭐ If you like my projects, consider giving them a star!
-
+Thanks for visiting my profile!
 </p>
