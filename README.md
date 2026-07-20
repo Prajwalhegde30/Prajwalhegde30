@@ -1,12 +1,8 @@
 <!-- Animated Header -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prajwal+Hegde;Computer+Science+(Data+Science)+Student;AI+%7C+Machine+Learning+%7C+NLP;Python+Developer;Building+Intelligent+Applications+🚀" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prajwal+Hegde;AI+%7C+Machine+Learning+%7C+NLP;Python+Developer;Building+Intelligent+Applications+🚀"/>
 </p>
-
-<h3 align="center">
-Computer Science (Data Science) Student passionate about Artificial Intelligence, Machine Learning and Software Development.
-</h3>
 
 <p align="center">
 
@@ -26,19 +22,13 @@ Computer Science (Data Science) Student passionate about Artificial Intelligence
 
 ---
 
-# 👨‍💻 About Me
+# 👋 About Me
 
-I'm a **Computer Science (Data Science)** student who enjoys building practical AI applications that solve real-world problems.
+I'm **Prajwal Hegde**, a Computer Science (Data Science) student passionate about building intelligent software using Artificial Intelligence and Machine Learning.
 
-My interests include:
+I enjoy developing projects that combine AI, data, and software engineering to solve practical problems.
 
-- 🤖 Artificial Intelligence
-- 🧠 Machine Learning
-- 💬 Natural Language Processing
-- 📊 Data Analytics
-- ⚡ Software Development
-
-Currently preparing for **Software Engineering**, **AI**, and **Machine Learning** internship opportunities while strengthening my knowledge of modern AI technologies.
+Currently preparing for Software Engineering and AI internships while expanding my knowledge of modern AI technologies.
 
 ---
 
@@ -56,20 +46,24 @@ Currently preparing for **Software Engineering**, **AI**, and **Machine Learning
 <img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
-### Data Science
+### Data & AI
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
 
+<img src="https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode"/>
 </p>
 
 ---
@@ -78,7 +72,7 @@ Currently preparing for **Software Engineering**, **AI**, and **Machine Learning
 
 ### 🤖 AI Job Application Portal
 
-AI-powered platform that streamlines the hiring process through intelligent resume analysis, job matching, and automated application workflows.
+An AI-powered platform that streamlines the hiring process through intelligent resume analysis, smart job matching, and automated application workflows.
 
 **Tech:** TypeScript • AI • Vercel
 
@@ -86,7 +80,7 @@ AI-powered platform that streamlines the hiring process through intelligent resu
 
 ### 📈 LSTM-Based Stock Forecasting & Portfolio Optimization
 
-Deep learning model that predicts stock prices using LSTM networks and applies portfolio optimization techniques for balancing risk and return.
+Deep learning project for forecasting stock prices using LSTM neural networks and optimizing investment portfolios based on predicted market trends.
 
 **Tech:** Python • LSTM • Machine Learning • Time Series
 
@@ -94,7 +88,7 @@ Deep learning model that predicts stock prices using LSTM networks and applies p
 
 ### 🧠 AI Debate System
 
-An NLP-powered debate platform capable of generating structured arguments, analyzing viewpoints, and enabling intelligent AI discussions.
+An NLP-powered debate platform capable of generating structured arguments, evaluating viewpoints, and enabling interactive AI discussions.
 
 **Tech:** Python • NLP • AI
 
@@ -102,7 +96,7 @@ An NLP-powered debate platform capable of generating structured arguments, analy
 
 ### 📊 Binance Futures Testnet Trading Bot
 
-Python-based CLI application for executing MARKET and LIMIT orders through the Binance Futures Testnet API.
+Python CLI application that interacts with the Binance Futures Testnet API to execute MARKET and LIMIT orders.
 
 **Tech:** Python • Binance API • Trading Automation
 
@@ -112,10 +106,10 @@ Python-based CLI application for executing MARKET and LIMIT orders through the B
 
 ## Deloitte Australia Data Analytics Job Simulation (Forage)
 
-- Performed data analysis using Excel.
-- Classified employee equality scores using logical functions.
-- Built an interactive Tableau dashboard.
-- Generated business insights through data visualization.
+- Data Analysis using Excel
+- Employee Equality Score Classification
+- Tableau Dashboard Development
+- Business Insight Generation
 
 ---
 
@@ -129,34 +123,18 @@ Python-based CLI application for executing MARKET and LIMIT orders through the B
 
 ---
 
-# 📊 GitHub Overview
+# 📈 GitHub Activity
 
-<p align="center">
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=transparent&hide_border=true"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
+> GitHub's own contribution calendar below already showcases my coding activity and consistency.
 
 ---
 
-# 📈 Contribution Activity
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalhegde30&theme=github-dark&hide_border=true"/>
-
-</p>
-
----
-
-# 📫 Connect With Me
+# 📫 Connect
 
 <p align="center">
 
 <a href="mailto:prajwalhegde3010@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Prajwalhegde30">
@@ -173,6 +151,6 @@ Python-based CLI application for executing MARKET and LIMIT orders through the B
 
 <p align="center">
 
-*"Building intelligent software that turns ideas into real-world solutions."*
+⭐ Thanks for visiting my profile!
 
 </p>
