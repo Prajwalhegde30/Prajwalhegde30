@@ -1,18 +1,16 @@
 <!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prajwal+Hegde;AI+%7C+Machine+Learning+%7C+NLP;Python+Developer;Building+Intelligent+Applications+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=34&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋,+I'm+Prajwal+Hegde;AI+%7C+Machine+Learning+%7C+NLP;Python+Developer;Building+Intelligent+Applications+🚀"/>
 </p>
 
 <p align="center">
   <a href="mailto:prajwalhegde3010@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-
   <a href="https://github.com/Prajwalhegde30">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
-
   <a href="https://www.linkedin.com/in/prajwal-hegde-a508a6298/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
@@ -22,8 +20,9 @@
 
 # 👋 About Me
 
+I'm **Prajwal Hegde**, a Computer Science (Data Science) student passionate about building practical AI applications.
 
-My interests span:
+My interests include:
 
 - 🤖 Artificial Intelligence
 - 🧠 Machine Learning
@@ -31,7 +30,7 @@ My interests span:
 - 📊 Data Analytics
 - 💻 Software Engineering
 
-I'm currently preparing for AI and Software Engineering internships while building practical projects in Python and modern AI.
+Currently learning **RAG**, **LLMs**, **DSA**, and building AI-powered applications with Python.
 
 ---
 
@@ -49,7 +48,7 @@ I'm currently preparing for AI and Software Engineering internships while buildi
 <img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
-### Data Science
+### Data & AI
 
 <p>
 
@@ -73,35 +72,79 @@ I'm currently preparing for AI and Software Engineering internships while buildi
 
 # 🚀 Featured Projects
 
-### 🤖 AI Job Application Portal
+---
 
-AI-powered platform for resume analysis, intelligent job matching, and application management.
+## 🤖 AI Job Application Portal
 
-**Tech:** TypeScript • AI • Vercel
+An AI-powered web application designed to simplify and automate the job application process for candidates. The platform intelligently analyzes resumes, matches them with suitable job opportunities, and provides an organized interface for tracking applications. The project focuses on combining automation with AI to improve the overall job search experience.
+
+**Key Highlights**
+- AI-based resume analysis and job matching
+- Modern web application with responsive UI
+- Automated application workflow and tracking
+
+**Tech Stack:** TypeScript • AI • Vercel
+
+🔗 **Repository:**  
+https://github.com/Prajwalhegde30/ai-job-application-portal
 
 ---
 
-### 📈 LSTM-Based Stock Forecasting & Portfolio Optimization
+## 📈 LSTM-Based Stock Forecasting & Portfolio Optimization
 
-Deep learning project that forecasts stock prices using LSTM networks and applies portfolio optimization techniques.
+A deep learning project that predicts future stock prices using Long Short-Term Memory (LSTM) networks and applies portfolio optimization techniques to build efficient investment portfolios. The project integrates time-series forecasting with quantitative finance concepts to support better investment decisions.
 
-**Tech:** Python • LSTM • Machine Learning
+**Key Highlights**
+- LSTM-based stock price prediction
+- Portfolio optimization using predicted returns
+- Financial data preprocessing and visualization
+
+**Tech Stack:** Python • TensorFlow • LSTM • Machine Learning • Pandas
+
+🔗 **Repository:**  
+https://github.com/Prajwalhegde30/LSTM-Based-Stock-Forecasting-Portfolio-Optimization
 
 ---
 
-### 🧠 AI Debate System
+## 🧠 AI Debate System
 
-NLP-powered debate platform capable of generating structured arguments and evaluating viewpoints.
+An intelligent debate platform that leverages Natural Language Processing to generate, analyze, and evaluate arguments from multiple perspectives. The project demonstrates how AI can assist in structured discussions by producing logical responses and comparing opposing viewpoints.
 
-**Tech:** Python • NLP • AI
+**Key Highlights**
+- NLP-powered argument generation
+- Multi-perspective debate analysis
+- AI-assisted response evaluation
+
+**Tech Stack:** Python • NLP • Machine Learning
+
+🔗 **Repository:**  
+https://github.com/Prajwalhegde30/ai-debate-system
 
 ---
 
-### 📊 Binance Futures Testnet Trading Bot
+## 📊 Binance Futures Testnet Trading Bot
 
-Python CLI application that interacts with the Binance Futures API to automate MARKET and LIMIT orders.
+A command-line trading bot developed using Python that interacts with the Binance Futures Testnet API. The application allows users to execute MARKET and LIMIT orders while demonstrating secure API integration and automated trading workflows in a simulated environment.
 
-**Tech:** Python • Binance API
+**Key Highlights**
+- Binance Futures Testnet integration
+- MARKET & LIMIT order execution
+- Secure API-based trading automation
+
+**Tech Stack:** Python • Binance API • REST API
+
+🔗 **Repository:**  
+https://github.com/Prajwalhegde30/binance-futures-testnet-trading-bot
+
+# 📈 GitHub Overview
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
@@ -111,20 +154,7 @@ Python CLI application that interacts with the Binance Futures API to automate M
 - Large Language Models
 - Financial Machine Learning
 - Data Structures & Algorithms
-
----
-
-# 📊 GitHub Overview
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=github_dark&hide_border=true"/>
-
-</p>
-
-> **Note:** If these cards occasionally fail to load, it's due to temporary issues with the community-hosted service that generates them.
+- AI System Design
 
 ---
 
@@ -150,6 +180,6 @@ Python CLI application that interacts with the Binance Futures API to automate M
 
 <p align="center">
 
-### ⭐ Explore my pinned repositories below to see my latest AI and software development projects.
+⭐ Thanks for visiting my profile!
 
 </p>
