@@ -1,34 +1,38 @@
-<!-- Animated Header -->
+<!-- ========================= HEADER ========================= -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=34&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prajwal+Hegde;AI+%7C+Machine+Learning+%7C+NLP;Python+Developer;Building+Intelligent+Applications+🚀"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&duration=3500&pause=1000&color=00E5FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prajwal+Hegde;AI+%7C+Machine+Learning+%7C+NLP;Python+Developer;Building+Intelligent+Applications+🚀">
 </p>
 
 <p align="center">
+  <a href="mailto:prajwalhegde3010@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:prajwalhegde3010@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
-</a>
+  <a href="https://github.com/Prajwalhegde30">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/Prajwalhegde30">
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prajwal-hegde-a508a6298/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
-</a>
-
+  <a href="https://www.linkedin.com/in/prajwal-hegde-a508a6298/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
 # 👋 About Me
 
-I'm **Prajwal Hegde**, a Computer Science (Data Science) student passionate about building intelligent software using Artificial Intelligence and Machine Learning.
+I'm **Prajwal Hegde**, a Computer Science (Data Science) student who enjoys building AI-powered applications that solve real-world problems.
 
-I enjoy developing projects that combine AI, data, and software engineering to solve practical problems.
+My interests span:
 
-Currently preparing for Software Engineering and AI internships while expanding my knowledge of modern AI technologies.
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Natural Language Processing
+- 📊 Data Analytics
+- 💻 Software Engineering
+
+I'm currently preparing for AI and Software Engineering internships while building practical projects in Python and modern AI.
 
 ---
 
@@ -46,7 +50,7 @@ Currently preparing for Software Engineering and AI internships while expanding 
 <img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
-### Data & AI
+### Data Science
 
 <p>
 
@@ -72,7 +76,7 @@ Currently preparing for Software Engineering and AI internships while expanding 
 
 ### 🤖 AI Job Application Portal
 
-An AI-powered platform that streamlines the hiring process through intelligent resume analysis, smart job matching, and automated application workflows.
+AI-powered platform for resume analysis, intelligent job matching, and application management.
 
 **Tech:** TypeScript • AI • Vercel
 
@@ -80,15 +84,15 @@ An AI-powered platform that streamlines the hiring process through intelligent r
 
 ### 📈 LSTM-Based Stock Forecasting & Portfolio Optimization
 
-Deep learning project for forecasting stock prices using LSTM neural networks and optimizing investment portfolios based on predicted market trends.
+Deep learning project that forecasts stock prices using LSTM networks and applies portfolio optimization techniques.
 
-**Tech:** Python • LSTM • Machine Learning • Time Series
+**Tech:** Python • LSTM • Machine Learning
 
 ---
 
 ### 🧠 AI Debate System
 
-An NLP-powered debate platform capable of generating structured arguments, evaluating viewpoints, and enabling interactive AI discussions.
+NLP-powered debate platform capable of generating structured arguments and evaluating viewpoints.
 
 **Tech:** Python • NLP • AI
 
@@ -96,20 +100,9 @@ An NLP-powered debate platform capable of generating structured arguments, evalu
 
 ### 📊 Binance Futures Testnet Trading Bot
 
-Python CLI application that interacts with the Binance Futures Testnet API to execute MARKET and LIMIT orders.
+Python CLI application that interacts with the Binance Futures API to automate MARKET and LIMIT orders.
 
-**Tech:** Python • Binance API • Trading Automation
-
----
-
-# 💼 Experience
-
-## Deloitte Australia Data Analytics Job Simulation (Forage)
-
-- Data Analysis using Excel
-- Employee Equality Score Classification
-- Tableau Dashboard Development
-- Business Insight Generation
+**Tech:** Python • Binance API
 
 ---
 
@@ -117,24 +110,31 @@ Python CLI application that interacts with the Binance Futures Testnet API to ex
 
 - Retrieval-Augmented Generation (RAG)
 - Large Language Models
-- Natural Language Processing
 - Financial Machine Learning
 - Data Structures & Algorithms
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Overview
 
-> GitHub's own contribution calendar below already showcases my coding activity and consistency.
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+> **Note:** If these cards occasionally fail to load, it's due to temporary issues with the community-hosted service that generates them.
 
 ---
 
-# 📫 Connect
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:prajwalhegde3010@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Prajwalhegde30">
@@ -151,6 +151,6 @@ Python CLI application that interacts with the Binance Futures Testnet API to ex
 
 <p align="center">
 
-⭐ Thanks for visiting my profile!
+### ⭐ Explore my pinned repositories below to see my latest AI and software development projects.
 
 </p>
