@@ -22,7 +22,6 @@
 
 # 👋 About Me
 
-I'm **Prajwal Hegde**, a Computer Science (Data Science) student who enjoys building AI-powered applications that solve real-world problems.
 
 My interests span:
 
