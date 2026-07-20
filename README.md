@@ -1,21 +1,25 @@
 <!-- Animated Header -->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prajwal+Hegde;Computer+Science+(Data+Science)+Student;Python+Developer;AI+%7C+Machine+Learning+%7C+NLP;Building+AI+Powered+Applications+🚀">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Prajwal+Hegde;Computer+Science+(Data+Science)+Student;AI+%7C+Machine+Learning+%7C+NLP;Python+Developer;Building+Intelligent+Applications+🚀" />
 </p>
 
 <h3 align="center">
-Computer Science (Data Science) Student passionate about Artificial Intelligence, Machine Learning, NLP and Software Development.
+Computer Science (Data Science) Student passionate about Artificial Intelligence, Machine Learning and Software Development.
 </h3>
 
 <p align="center">
 
-<a href="https://komarev.com/ghpvc/?username=Prajwalhegde30">
-<img src="https://komarev.com/ghpvc/?username=Prajwalhegde30&label=Profile%20Views&color=0e75b6&style=flat"/>
+<a href="mailto:prajwalhegde3010@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Prajwalhegde30">
-<img src="https://img.shields.io/github/followers/Prajwalhegde30?label=Followers&style=social"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/prajwal-hegde-a508a6298/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
@@ -24,68 +28,48 @@ Computer Science (Data Science) Student passionate about Artificial Intelligence
 
 # 👨‍💻 About Me
 
-🎓 B.E. Computer Science (Data Science) Student
+I'm a **Computer Science (Data Science)** student who enjoys building practical AI applications that solve real-world problems.
 
-💡 Passionate about building intelligent software using AI and Machine Learning.
+My interests include:
 
-🚀 Interested in
+- 🤖 Artificial Intelligence
+- 🧠 Machine Learning
+- 💬 Natural Language Processing
+- 📊 Data Analytics
+- ⚡ Software Development
 
-- Artificial Intelligence
-- Machine Learning
-- Natural Language Processing
-- Data Analytics
-- Generative AI
-- Software Development
-
-📚 Currently learning
-
-- Data Structures & Algorithms
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models
-- Advanced NLP
-
-📍 Bengaluru, India
+Currently preparing for **Software Engineering**, **AI**, and **Machine Learning** internship opportunities while strengthening my knowledge of modern AI technologies.
 
 ---
 
-# ⚙️ Tech Stack
+# 💻 Tech Stack
 
-### 💻 Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,c"/>
 </p>
 
-### 🌐 Web Development
+### Web
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css"/>
 </p>
 
-### 🤖 AI & Data Science
+### Data Science
 
 <p>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/LSTM-FF6F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge"/>
-
-</p>
-
-### 🛠 Tools
-
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
+
 </p>
 
 ---
@@ -94,105 +78,93 @@ Computer Science (Data Science) Student passionate about Artificial Intelligence
 
 ### 🤖 AI Job Application Portal
 
-- AI-powered resume analysis
-- Smart job matching
-- Intelligent application workflow
+AI-powered platform that streamlines the hiring process through intelligent resume analysis, job matching, and automated application workflows.
+
+**Tech:** TypeScript • AI • Vercel
 
 ---
 
 ### 📈 LSTM-Based Stock Forecasting & Portfolio Optimization
 
-- Forecasted stock prices using LSTM
-- Portfolio optimization
-- Financial time-series analysis
+Deep learning model that predicts stock prices using LSTM networks and applies portfolio optimization techniques for balancing risk and return.
+
+**Tech:** Python • LSTM • Machine Learning • Time Series
 
 ---
 
 ### 🧠 AI Debate System
 
-- NLP-powered debate platform
-- Argument generation
-- Interactive discussions
+An NLP-powered debate platform capable of generating structured arguments, analyzing viewpoints, and enabling intelligent AI discussions.
+
+**Tech:** Python • NLP • AI
 
 ---
 
-### 📊 Binance Futures Trading Bot
+### 📊 Binance Futures Testnet Trading Bot
 
-- Python CLI application
-- Binance Futures API
-- MARKET & LIMIT orders
+Python-based CLI application for executing MARKET and LIMIT orders through the Binance Futures Testnet API.
+
+**Tech:** Python • Binance API • Trading Automation
 
 ---
 
 # 💼 Experience
 
-### Deloitte Australia Data Analytics Job Simulation (Forage)
+## Deloitte Australia Data Analytics Job Simulation (Forage)
 
-- Data Analysis using Excel
-- Employee Equality Score Classification
-- Business Insight Generation
-- Interactive Tableau Dashboard
-
----
-## 💻 Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+- Performed data analysis using Excel.
+- Classified employee equality scores using logical functions.
+- Built an interactive Tableau dashboard.
+- Generated business insights through data visualization.
 
 ---
 
-## 🔥 GitHub Streak
+# 🌱 Currently Exploring
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Prajwalhegde30&theme=github-dark-blue&hide_border=true" />
-</p>
+- Retrieval-Augmented Generation (RAG)
+- Large Language Models
+- Natural Language Processing
+- Financial Machine Learning
+- Data Structures & Algorithms
 
 ---
 
-## 🏆 GitHub Trophies
+# 📊 GitHub Overview
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Prajwalhegde30&theme=algolia&no-frame=true&margin-w=15&margin-h=15" />
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Prajwalhegde30&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prajwalhegde30&layout=compact&theme=transparent&hide_border=true"/>
+
 </p>
 
 ---
 
-## 📈 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalhegde30&theme=tokyo-night"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Prajwalhegde30&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Connect With Me
 
-<p>
+<p align="center">
 
 <a href="mailto:prajwalhegde3010@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Prajwalhegde30">
-
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/prajwal-hegde-a508a6298/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 </p>
@@ -201,8 +173,6 @@ Computer Science (Data Science) Student passionate about Artificial Intelligence
 
 <p align="center">
 
-### 💡 "Building AI-powered solutions that solve real-world problems."
+*"Building intelligent software that turns ideas into real-world solutions."*
 
-⭐ If you like my projects, consider giving them a star!
-Thanks for visiting my profile!
 </p>
